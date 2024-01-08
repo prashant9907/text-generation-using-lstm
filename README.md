@@ -12,7 +12,7 @@ Training the model on diverse text corpora to capture language structures and nu
 Generating novel and coherent text sequences based on learned patterns and contextual understanding.
 
 # Features:
-## Modular Architecture:
+##### Modular Architecture:
 Clear and organized codebase for easy understanding and future enhancements.
 ## User-Friendly Interface:
 Simple scripts for training the model and generating text sequences.
