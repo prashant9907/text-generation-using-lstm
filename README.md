@@ -27,6 +27,8 @@ The "The Jungle Book" dataset is used as the primary training source for the LST
 The Long Short-Term Memory (LSTM) architecture is a type of recurrent neural network (RNN) known for its ability to capture long-range dependencies and handle sequential data. Here's an overview of LSTM architecture for text generation tasks:
 
 ![image](https://github.com/prashant9907/text-generation-using-lstm/assets/110531109/013665f7-ec49-4445-ab80-b696a0612adf)
+![image](https://github.com/prashant9907/text-generation-using-lstm/assets/110531109/8d346cad-8ded-461c-a662-537e94ee2d95)
+
 
 
 ### LSTM Architecture:
